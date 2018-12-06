@@ -1,0 +1,3 @@
+﻿  prog2.c
+c:\users\samuel caetano\source\repos\prog2\prog2\prog2.c(13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  prog2.vcxproj -> C:\Users\Samuel Caetano\source\repos\prog2\Debug\prog2.exe

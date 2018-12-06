@@ -1,0 +1,5 @@
+﻿  call_stats5.cpp
+c:\users\samuel caetano\source\repos\largeprogram8\largeprogram8\call_stats5.cpp(97): warning C4305: 'return': truncation from 'int' to 'bool'
+c:\users\samuel caetano\source\repos\largeprogram8\largeprogram8\call_stats5.cpp(115): warning C4305: 'return': truncation from 'int' to 'bool'
+c:\users\samuel caetano\source\repos\largeprogram8\largeprogram8\call_stats5.cpp(186): warning C4101: 'i': unreferenced local variable
+  LargeProgram8.vcxproj -> C:\Users\Samuel Caetano\source\repos\LargeProgram8\Debug\LargeProgram8.exe

@@ -1,0 +1,9 @@
+﻿  Time.cpp
+c:\users\samuel caetano\downloads\overwatch-aim-assist-master (1)\overwatch-aim-assist-master\[c++] overwatch aim assistance\time.cpp(36): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(505): note: see declaration of 'localtime'
+c:\users\samuel caetano\downloads\overwatch-aim-assist-master (1)\overwatch-aim-assist-master\[c++] overwatch aim assistance\time.cpp(48): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(505): note: see declaration of 'localtime'
+  Program.cpp
+c:\users\samuel caetano\downloads\overwatch-aim-assist-master (1)\overwatch-aim-assist-master\[c++] overwatch aim assistance\program.cpp(48): error C2664: 'Capture::Capture(const Capture &)': cannot convert argument 1 from 'const char *' to 'char *'
+  c:\users\samuel caetano\downloads\overwatch-aim-assist-master (1)\overwatch-aim-assist-master\[c++] overwatch aim assistance\program.cpp(48): note: Conversion loses qualifiers
+  Generating Code...

@@ -1,0 +1,11 @@
+﻿  hangmanGame.c
+c:\users\samuel caetano\source\repos\hangman\hangman\hangmangame.c(58): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[25]'
+c:\users\samuel caetano\source\repos\hangman\hangman\hangmangame.c(58): warning C4024: 'UpperCaseWord': different types for formal and actual parameter 1
+c:\users\samuel caetano\source\repos\hangman\hangman\hangmangame.c(59): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[25]'
+c:\users\samuel caetano\source\repos\hangman\hangman\hangmangame.c(59): warning C4024: 'PlayOneGame': different types for formal and actual parameter 1
+c:\users\samuel caetano\source\repos\hangman\hangman\hangmangame.c(51): warning C4101: 'userguess': unreferenced local variable
+c:\users\samuel caetano\source\repos\hangman\hangman\hangmangame.c(50): warning C4101: 'guesses': unreferenced local variable
+c:\users\samuel caetano\source\repos\hangman\hangman\hangmangame.c(49): warning C4101: 'star': unreferenced local variable
+c:\users\samuel caetano\source\repos\hangman\hangman\hangmangame.c(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\samuel caetano\source\repos\hangman\hangman\hangmangame.c(137): warning C4018: '<': signed/unsigned mismatch
+  Hangman.vcxproj -> C:\Users\Samuel Caetano\source\repos\Hangman\Debug\Hangman.exe

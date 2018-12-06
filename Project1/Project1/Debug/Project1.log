@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\samuel caetano\source\repos\project1\project1\source.c(6): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+c:\users\samuel caetano\source\repos\project1\project1\source.c(6): warning C4024: 'printf': different types for formal and actual parameter 1
+c:\users\samuel caetano\source\repos\project1\project1\source.c(5): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+  Project1.vcxproj -> C:\Users\Samuel Caetano\source\repos\Project1\Debug\Project1.exe

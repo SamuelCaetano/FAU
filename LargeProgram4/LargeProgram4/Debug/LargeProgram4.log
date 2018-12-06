@@ -1,0 +1,22 @@
+﻿  inventory.c
+c:\users\samuel caetano\source\repos\largeprogram4\largeprogram4\inventory.c(12): warning C4005: 'max': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1300): note: see previous definition of 'max'
+c:\users\samuel caetano\source\repos\largeprogram4\largeprogram4\inventory.c(62): warning C4133: 'function': incompatible types - from 'inventory [50]' to 'inventory *'
+c:\users\samuel caetano\source\repos\largeprogram4\largeprogram4\inventory.c(69): warning C4013: 'toupper' undefined; assuming extern returning int
+c:\users\samuel caetano\source\repos\largeprogram4\largeprogram4\inventory.c(71): warning C4133: 'function': incompatible types - from 'inventory [50]' to 'inventory *'
+c:\users\samuel caetano\source\repos\largeprogram4\largeprogram4\inventory.c(73): warning C4133: 'function': incompatible types - from 'inventory [50]' to 'inventory *'
+c:\users\samuel caetano\source\repos\largeprogram4\largeprogram4\inventory.c(75): warning C4133: 'function': incompatible types - from 'inventory [50]' to 'inventory *'
+c:\users\samuel caetano\source\repos\largeprogram4\largeprogram4\inventory.c(77): warning C4133: 'function': incompatible types - from 'inventory [50]' to 'inventory *'
+c:\users\samuel caetano\source\repos\largeprogram4\largeprogram4\inventory.c(81): warning C4133: 'function': incompatible types - from 'inventory [50]' to 'inventory *'
+c:\users\samuel caetano\source\repos\largeprogram4\largeprogram4\inventory.c(85): warning C4133: 'function': incompatible types - from 'inventory [50]' to 'inventory *'
+c:\users\samuel caetano\source\repos\largeprogram4\largeprogram4\inventory.c(99): warning C4028: formal parameter 1 different from declaration
+c:\users\samuel caetano\source\repos\largeprogram4\largeprogram4\inventory.c(145): warning C4028: formal parameter 2 different from declaration
+c:\users\samuel caetano\source\repos\largeprogram4\largeprogram4\inventory.c(162): warning C4028: formal parameter 2 different from declaration
+c:\users\samuel caetano\source\repos\largeprogram4\largeprogram4\inventory.c(181): warning C4133: 'function': incompatible types - from 'char [182]' to 'FILE *const '
+c:\users\samuel caetano\source\repos\largeprogram4\largeprogram4\inventory.c(181): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+c:\users\samuel caetano\source\repos\largeprogram4\largeprogram4\inventory.c(181): warning C4024: 'fprintf': different types for formal and actual parameter 2
+c:\users\samuel caetano\source\repos\largeprogram4\largeprogram4\inventory.c(192): warning C4028: formal parameter 2 different from declaration
+c:\users\samuel caetano\source\repos\largeprogram4\largeprogram4\inventory.c(207): warning C4028: formal parameter 3 different from declaration
+c:\users\samuel caetano\source\repos\largeprogram4\largeprogram4\inventory.c(252): warning C4028: formal parameter 3 different from declaration
+c:\users\samuel caetano\source\repos\largeprogram4\largeprogram4\inventory.c(275): warning C4028: formal parameter 2 different from declaration
+  LargeProgram4.vcxproj -> C:\Users\Samuel Caetano\source\repos\LargeProgram4\Debug\LargeProgram4.exe

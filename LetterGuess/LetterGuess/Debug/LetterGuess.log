@@ -1,0 +1,3 @@
+﻿  letterGuess.c
+c:\users\samuel caetano\source\repos\letterguess\letterguess\letterguess.c(105): warning C4101: 'guess': unreferenced local variable
+  LetterGuess.vcxproj -> C:\Users\Samuel Caetano\source\repos\LetterGuess\Debug\LetterGuess.exe
